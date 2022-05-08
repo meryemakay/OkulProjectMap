@@ -62,7 +62,7 @@ public class Ogretmen {
                 case "Q":
                     break;
                 default:
-                    System.out.println();
+                    System.out.println("yanlıs tercıh yaptınız lutfen gecerlı bır tercıh yapınız");
 
 
             }
